@@ -1,0 +1,14 @@
+--- DADOS DA ENTREGA ---
+
+NOME DO PROJETO: Sentinela Orbital
+CURSO: [Insira o Curso]
+GRUPO: [Insira o Nome do Grupo]
+
+INTEGRANTES:
+1. Nome: [Seu Nome] - RM: [Seu RM]
+2. Nome: [Seu Nome] - RM: [Seu RM]
+3. Nome: [Seu Nome] - RM: [Seu RM]
+
+LINKS:
+- Repositório GitHub: [Link do Repositório]
+- Vídeo de Demonstração (Até 3 min): [Link do YouTube/Vimeo/Drive]
