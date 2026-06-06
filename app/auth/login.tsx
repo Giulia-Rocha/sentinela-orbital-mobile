@@ -23,8 +23,19 @@ export default function Login() {
       const res = await api.post("/auth/login", { email, senha });
       setToken(res.data.token, res.data.name);
       router.replace("/(tabs)");
-    } catch {
-      Alert.alert("Erro", "Credenciais inválidas");
+    } catch (error: any) {
+      console.error("Erro no login:", error);
+      if (error.response) {
+        // O servidor respondeu com um status de erro
+        const message = error.response.data?.message || "Credenciais inválidas";
+        Alert.alert("Erro de Login", message);
+      } else if (error.request) {
+        // A requisição foi feita mas não houve resposta (erro de rede)
+        Alert.alert("Erro de Conexão", "Não foi possível conectar ao servidor. Verifique se o IP em src/constants/config.ts está correto.");
+      } else {
+        // Algo aconteceu ao montar a requisição
+        Alert.alert("Erro", "Ocorreu um erro inesperado.");
+      }
     } finally {
       setLoading(false);
     }

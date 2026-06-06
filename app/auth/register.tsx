@@ -28,8 +28,16 @@ export default function Register() {
       const res = await api.post("/auth/register", { nome, email, senha });
       setToken(res.data.token, nome);
       router.replace("/(tabs)");
-    } catch {
-      Alert.alert("Erro", "Não foi possível criar a conta");
+    } catch (error: any) {
+      console.error("Erro no cadastro:", error);
+      if (error.response) {
+        const message = error.response.data?.message || "Não foi possível criar a conta";
+        Alert.alert("Erro de Cadastro", message);
+      } else if (error.request) {
+        Alert.alert("Erro de Conexão", "Não foi possível conectar ao servidor. Verifique o IP em src/constants/config.ts");
+      } else {
+        Alert.alert("Erro", "Ocorreu um erro inesperado.");
+      }
     } finally {
       setLoading(false);
     }
