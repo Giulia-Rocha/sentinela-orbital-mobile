@@ -18,11 +18,12 @@ As ondas de calor tornaram-se um dos desafios climáticos mais críticos do séc
 | Print da Tela | Título Descritivo |
 | :--- | :--- |
 | ![Login](./assets/splash-icon.png) | Tela de Autenticação e Boas-vindas |
-| ![Dashboard](./assets/splash-icon.png) | Painel Principal com Indicador HRI e Alertas Ativos |
+| ![Cadastro](./assets/splash-icon.png) | Tela de Cadastro de Usuário |
+| ![Principal](./assets/splash-icon.png) | Painel Principal com Indicador HRI e Alertas Ativos |
 | ![Previsão](./assets/splash-icon.png) | Dashboard de Previsão Semanal com Gráfico de Temperatura |
 | ![Configurações](./assets/splash-icon.png) | Ajustes de Região e Preferências de Usuário |
 
-> *Nota: Substitua os caminhos das imagens acima pelos prints reais capturados do seu emulador/dispositivo.*
+
 
 ---
 
@@ -70,14 +71,9 @@ npx expo start
 
 ---
 
-## 📝 Documentação Adicional
-
-- [Checklist de Requisitos](./checklist.md)
-- [Estrutura do Projeto](./spec.md)
-
----
 
 ## 👥 Desenvolvido por:
-- [Nome do Integrante 1] - RM [00000]
-- [Nome do Integrante 2] - RM [00000]
-- [Nome do Integrante 3] - RM [00000]
+- Gabriel Danius - RM 555747
+- Caio Rossini - RM 555084
+- Giulia Rocha- RM 558084
+- Carlos Eduardo - RM 556785

@@ -1,13 +1,13 @@
 --- DADOS DA ENTREGA ---
 
 NOME DO PROJETO: Sentinela Orbital
-CURSO: [Insira o Curso]
-GRUPO: [Insira o Nome do Grupo]
+CURSO: Engenharia de Software
 
 INTEGRANTES:
-1. Nome: [Seu Nome] - RM: [Seu RM]
-2. Nome: [Seu Nome] - RM: [Seu RM]
-3. Nome: [Seu Nome] - RM: [Seu RM]
+Gabriel Danius - RM 555747
+Caio Rossini - RM 555084
+Giulia Rocha- RM 558084
+Carlos Eduardo - RM 556785
 
 LINKS:
 - Repositório GitHub: [Link do Repositório]
