@@ -20,15 +20,15 @@ As ondas de calor tornaram-se um dos desafios climáticos mais críticos do séc
 
 | Print da Tela | Título Descritivo |
 | :--- | :--- |
-| ![Login](./assets/login.jpeg) | Tela de Autenticação e Boas-vindas |
-| ![Cadastro](./assets/cadastro.jpeg) | Tela de Cadastro de Usuário |
-| ![Principal](./assets/principal.jpeg) | Painel Principal com Indicador HRI e Alertas Ativos |
-| ![Previsão](./assets/previsao-centro.jpeg) | Dashboard de Previsão Semanal com Gráfico de Temperatura |
-| ![Configurações [dark]](./assets/config-dark.jpeg) | Ajustes de Região e Preferências de Usuário | 
-| ![Configurações [ligth]](./assets/config-ligth.jpeg) | Ajustes de Região e Preferências de Usuário | 
-| ![Alertas](./assets/alertas.jpeg) | Histórico de Alertas para a região monitorada | 
-| ![Alerta Crítico](./assets/critico.jpeg) | Filtro por intensidade do alerta | 
-| ![Alerta Moderado](./assets/alertaAlerta.jpeg) | Filtro por intensidade do alerta | 
+| <img src="./assets/login.jpeg" width="200" alt="Login"> | Tela de Autenticação e Boas-vindas |
+| <img src="./assets/cadastro.jpeg" width="200" alt="Cadastro"> | Tela de Cadastro de Usuário |
+| <img src="./assets/principal.jpeg" width="200" alt="Principal"> | Painel Principal com Indicador HRI e Alertas Ativos |
+| <img src="./assets/previsao-centro.jpeg" width="200" alt="Previsão"> | Dashboard de Previsão Semanal com Gráfico de Temperatura |
+| <img src="./assets/config-dark.jpeg" width="200" alt="Configurações [dark]"> | Ajustes de Região e Preferências de Usuário | 
+| <img src="./assets/config-ligth.jpeg" width="200" alt="Configurações [ligth]"> | Ajustes de Região e Preferências de Usuário | 
+| <img src="./assets/alertas.jpeg" width="200" alt="Alertas"> | Histórico de Alertas para a região monitorada | 
+| <img src="./assets/critico.jpeg" width="200" alt="Alerta Crítico"> | Filtro por intensidade do alerta | 
+| <img src="./assets/alertaAlerta.jpeg" width="200" alt="Alerta Moderado"> | Filtro por intensidade do alerta | 
 
 
 
