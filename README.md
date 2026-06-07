@@ -17,11 +17,15 @@ As ondas de calor tornaram-se um dos desafios climáticos mais críticos do séc
 
 | Print da Tela | Título Descritivo |
 | :--- | :--- |
-| ![Login](./assets/splash-icon.png) | Tela de Autenticação e Boas-vindas |
-| ![Cadastro](./assets/splash-icon.png) | Tela de Cadastro de Usuário |
-| ![Principal](./assets/splash-icon.png) | Painel Principal com Indicador HRI e Alertas Ativos |
-| ![Previsão](./assets/splash-icon.png) | Dashboard de Previsão Semanal com Gráfico de Temperatura |
-| ![Configurações](./assets/splash-icon.png) | Ajustes de Região e Preferências de Usuário |
+| ![Login](./assets/login.jpeg) | Tela de Autenticação e Boas-vindas |
+| ![Cadastro](./assets/cadastro.jpeg) | Tela de Cadastro de Usuário |
+| ![Principal](./assets/principal.jpeg) | Painel Principal com Indicador HRI e Alertas Ativos |
+| ![Previsão](./assets/previsao-centro.jpeg) | Dashboard de Previsão Semanal com Gráfico de Temperatura |
+| ![Configurações [dark]](./assets/config-dark.jpeg) | Ajustes de Região e Preferências de Usuário | 
+| ![Configurações [ligth]](./assets/config-ligth.jpeg) | Ajustes de Região e Preferências de Usuário | 
+| ![Alertas](./assets/alertas.jpeg) | Histórico de Alertas para a região monitorada | 
+| ![Alerta Crítico](./assets/critico.jpeg) | Filtro por intensidade do alerta | 
+| ![Alerta Moderado](./assets/alertaAlerta.jpeg) | Filtro por intensidade do alerta | 
 
 
 
