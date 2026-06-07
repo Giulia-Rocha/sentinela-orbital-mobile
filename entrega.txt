@@ -10,5 +10,5 @@ Giulia Rocha- RM 558084
 Carlos Eduardo - RM 556785
 
 LINKS:
-- Repositório GitHub: [Link do Repositório]
-- Vídeo de Demonstração (Até 3 min): [Link do YouTube/Vimeo/Drive]
+- Repositório GitHub: https://github.com/Giulia-Rocha/sentinela-orbital-mobile
+- Vídeo de Demonstração (Até 3 min): https://drive.google.com/file/d/1B54eX6fDjepmVMxNAeGf7z2S77ulzm6z/view?usp=sharing
